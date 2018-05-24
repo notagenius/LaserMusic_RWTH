@@ -2,11 +2,22 @@
 
 Volume vol;
 int played = 0;
-int thresholdDown = 550;
-int thresholdUp = 600;
+int thresholdDown;
+int thresholdUp;
+
+int generateMedium() {
+  int res = 0;
+  for (int i = 0; i < 100; i++) {
+    int curr = analogRead(A0);
+    res += curr/100;
+  }
+  return res;
+}
 
 void setup() {
   // put your setup code here, to run once:
+  thresholdUp = generateMedium();
+  thresholdDown = th-50;
   pinMode(A0, INPUT);
   pinMode(5, OUTPUT);
   Serial.begin(9600);
