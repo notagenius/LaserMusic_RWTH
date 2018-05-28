@@ -11,7 +11,7 @@ Väλine Kaksi was ideated, designed and constructed by these awesome folks:
 
 [Anton Darscht](http://github.com/Quak2)
 
-[Yiqian Wang] (http://github.com/dolormin)
+[Yiqian Wang](http://github.com/dolormin)
 
 [Weiling Xi](http://github.com/notagenius)
 
