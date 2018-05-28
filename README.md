@@ -1,28 +1,35 @@
-# LaserMusic_RWTH
-A Laser Xylophone
+# Väλine Kaksi
+A Laser Xylophone created at the Laser Music Hackathon at RWTH Aachen University in May 2018.
 
-# Member: 
-Andreas U.
+# Member
 
-Luca
+Väλine Kaksi was ideated, designed and constructed by these awesome folks:
 
-Anton Darscht
+[Andreas Usdenski](github.com/ausdensk)
+
+[Luca Venier](github.com/zeygon)
+
+[Anton Darscht](github.com/Quak2)
 
 Yiqian Wang
 
-Weiling Xi
+[Weiling Xi](github.com/notagenius)
 
-# Material:
-arduino Uno x 1
+# Bucket List
 
-Laser Red Dot: 5V 650nm 5mW x 1
+Following is the material needed to build the Väλine Kaksi.
 
-Photodiode: SFH 203 x 1
+- Casing build with Laser Cutter (svg files in repo)
 
-Speaker Miniatur: 0.5W 66mm Diameter x 1
+- Arduino Uno (Any Arduino/Microcontroller will do the job)
 
-Spring：10mm Diameter x 4
+- Laser Red Dot: 5V 650nm 5mW
 
+- Photodiode: SFH 203 (+ 10 kOhm resistor)
+
+- Speaker Miniatur: 0.5W 66mm Diameter
+
+- 4 10mm mechanical springs
 
 # Assembly Photo
 ![front](https://raw.githubusercontent.com/notagenius/LaserMusic_RWTH/master/pics/front.jpeg)
