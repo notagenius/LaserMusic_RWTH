@@ -3,9 +3,13 @@ LaserMusic_RWTH
 
 # Member: 
 Andreas U.
+
 Luca
+
 Anton Darscht
+
 Yiqian Wang
+
 Weiling Xi
 
 # Material:
