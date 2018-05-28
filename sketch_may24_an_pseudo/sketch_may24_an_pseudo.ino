@@ -33,7 +33,7 @@ void loop() {
 
  int lol = analogRead(A0);
 
- // save 5-7 lol < treshDown
+ // save 5-7 lol < treshDown (?)
 
  float M[5];   // save time measurement for identifing period time
  float MI[5]; // save measurement of current
@@ -41,16 +41,14 @@ void loop() {
 float Delta_t;  // for identifying the oszillation threw time period
  
  int i=0;  // time reference 
- bool sign_t=true;
- 
- sign=true;  //this is bool which tells if the period condition is fullfilled!
+ bool sign=true; //this is bool which tells if the period condition is fullfilled!
  while (sign==true) {
  if (lol < thresholdDown) {
-  M[i]=time(thresholdDown)
+  M[i]=time(thresholdDown); //existiert nicht
 
-  if i==1 and sign_t==ture {
+  if (i==1 && sign==true) {
   Delta_t=M[i]-M[i-1];
-  sign_t=false;
+  sign=false;
   }
   
 
@@ -66,7 +64,7 @@ float Delta_t;  // for identifying the oszillation threw time period
   //else if (lol >= thresholdUp && played == 1) {
   //played = 0;  }
 
-  if Delta_t!=M[i+1]-M[i] {  // cyclic ie if i=5 -> i+1=0
+  if (Delta_t!=M[i+1]-M[i]) {  // cyclic ie if i=5 -> i+1=0
     sign=false;  // condition to stop sound
   }
  }

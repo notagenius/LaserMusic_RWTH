@@ -24,13 +24,24 @@ void setup() {
   vol.begin();
 }
 
+int getMin(int lol) {
+  int prev;
+  do {
+    prev = lol;
+    lol = analogRead(A0);
+  } while(prev >= lol);
+  return prev;
+}
+
 void loop() {
   // put your main code here, to run repeatedly:
  int lol = analogRead(A0);
  if (lol < thresholdDown) {
-  vol.tone(440, 255);
+  int loudness = 255;//50+min(205-(getMin(lol)*1), 0); // TODO: Parameter entsprechend adjusten #kommentaresindimmereinzeichenderunfähigkeit
+  vol.tone(440, loudness); 
   vol.delay(100);
-  vol.tone(440,0);
+  //vol.tone(440, 0);
+  vol.fadeOut(200);
   played = 1;
  } else if (lol >= thresholdUp && played == 1) {
   played = 0;
