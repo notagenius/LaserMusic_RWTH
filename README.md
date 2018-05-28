@@ -27,8 +27,8 @@ Spring：10mm Diameter x 4
 # Assembly) Photo
 
 ![front](https://raw.githubusercontent.com/notagenius/LaserMusic_RWTH/master/pics/front.jpeg)
-![front](https://raw.githubusercontent.com/notagenius/LaserMusic_RWTH/master/pics/back.jpeg)
-![front](https://raw.githubusercontent.com/notagenius/LaserMusic_RWTH/master/pics/side.jpeg)
+![back](https://raw.githubusercontent.com/notagenius/LaserMusic_RWTH/master/pics/back.jpeg)
+![side](https://raw.githubusercontent.com/notagenius/LaserMusic_RWTH/master/pics/side.jpeg)
 
 # Video Demo
 
