@@ -10,9 +10,13 @@ Weiling Xi
 
 # Material:
 arduino Uno * 1
+
 Laser Red Dot: 5V 650nm 5mW * 1
+
 Photodiode: SFH 203 * 1
+
 Speaker Miniatur: 0.5W 66mm Diameter
+
 Spring：10mm Diameter * 4
 
 
