@@ -13,15 +13,15 @@ Yiqian Wang
 Weiling Xi
 
 # Material:
-arduino Uno * 1
+arduino Uno x 1
 
-Laser Red Dot: 5V 650nm 5mW * 1
+Laser Red Dot: 5V 650nm 5mW x 1
 
-Photodiode: SFH 203 * 1
+Photodiode: SFH 203 x 1
 
-Speaker Miniatur: 0.5W 66mm Diameter
+Speaker Miniatur: 0.5W 66mm Diameter x 1
 
-Spring：10mm Diameter * 4
+Spring：10mm Diameter x 4
 
 
 # Box Photo
