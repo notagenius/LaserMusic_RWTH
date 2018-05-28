@@ -5,15 +5,15 @@ A Laser Xylophone created at the Laser Music Hackathon at RWTH Aachen University
 
 Väλine Kaksi was ideated, designed and constructed by these awesome folks:
 
-[Andreas Usdenski](github.com/ausdensk)
+[Andreas Usdenski](http://github.com/ausdensk)
 
-[Luca Venier](github.com/zeygon)
+[Luca Venier](http://github.com/zeygon)
 
-[Anton Darscht](github.com/Quak2)
+[Anton Darscht](http://github.com/Quak2)
 
-Yiqian Wang
+Yiqian Wang (http://github.com/dolormin)
 
-[Weiling Xi](github.com/notagenius)
+[Weiling Xi](http://github.com/notagenius)
 
 # Bucket List
 
