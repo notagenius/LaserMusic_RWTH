@@ -1,5 +1,5 @@
 # LaserMusic_RWTH
-LaserMusic_RWTH
+A Laser Xylophone
 
 # Member: 
 Andreas U.
