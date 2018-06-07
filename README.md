@@ -3,7 +3,7 @@ A Laser Xylophone created at the Laser Music Hackathon at RWTH Aachen University
 
 # Member
 
-Väλine Kaksi was ideated, designed and constructed by these awesome folks:
+Väλine Kaksi was ideated, designed and constructed by these creative folks:
 
 [Andreas Usdenski](http://github.com/ausdensk)
 
